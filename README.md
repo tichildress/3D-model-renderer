@@ -103,7 +103,8 @@ git clone https://github.com/yourusername/your-repo-name.git
 
 ## Example Output
 
-(Add screenshots or GIFs here of your engine rendering models)
+<img width="1538" height="751" alt="Screenshot 2026-03-23 204406" src="https://github.com/user-attachments/assets/a3126d35-512d-4664-a8f4-9564fe337d55" />
+
 
 ---
 
